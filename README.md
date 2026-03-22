@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: March 23 - 24, 2026
+- Facilitator: @Thanh Nguyen
 
 ## Class Resources
 
