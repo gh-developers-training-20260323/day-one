@@ -1,4 +1,5 @@
-# GitHub for Developers PACC Developers (:\m/:)
+# GitHub for Developers PACC Developers (:🤘🏻:)
+🤓
 
 - Class Date: March 23 - 24, 2026
 - Facilitator: @Thanh Nguyen
